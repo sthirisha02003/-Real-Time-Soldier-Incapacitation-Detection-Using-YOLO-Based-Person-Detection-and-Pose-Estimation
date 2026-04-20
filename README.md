@@ -1,0 +1,2 @@
+# -Real-Time-Soldier-Incapacitation-Detection-Using-YOLO-Based-Person-Detection-and-Pose-Estimation
+Real-Time Soldier Incapacitation Detection using YOLO-based person detection and pose estimation. The system analyzes video streams to detect soldiers, extract skeletal keypoints, and identify abnormal postures like collapse or immobility. It generates real-time alerts to improve safety and enable faster rescue response in critical situations.
